@@ -1,0 +1,7 @@
+What is the output of the following program :
+print "Hello World"[::-1]
+
+A)dlroW olleH
+B)Hello Worl
+C)d
+D)error 
